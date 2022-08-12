@@ -3,7 +3,7 @@
 - Deterministic Safety Constraint (safe region): {(x1,x2,x3) : ((x1-2)/1)^2+((x2-2)/2)^2+((x3-2)/2)^2-1^2 >= 0 }
 
 
-- Trajectory: (Px(t),Pz(t)),Py(t))  where Px(t)=t, Py(t), Pz(t)=((t-5)^4 + 2*(t-5)^3 - 15*(t-5)^2 - 12*(t-5) + 36)/20
+- Trajectory: (Px(t),Py(t)),Pz(t))  where Px(t)=t, Py(t), Pz(t)=((t-5)^4 + 2*(t-5)^3 - 15*(t-5)^2 - 12*(t-5) + 36)/20
 
 - Tube Size: 0.4
 
