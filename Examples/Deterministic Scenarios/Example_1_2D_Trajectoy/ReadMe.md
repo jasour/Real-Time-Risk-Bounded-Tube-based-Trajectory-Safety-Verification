@@ -3,7 +3,7 @@
 - Deterministic Safety Constraint (safe region): {(x1,x2) : ((x1-2)/1)^2+((x2-2)/2)^2-1^2 >= 0 }
 
 
-- Trajectory: (Px(t),Py(t))  where Px(t)=t and Py(t)=((t-5)^4 + 2*(t-5)^3 - 15*(t-5)^2 - 12*(t-5) + 36)/20;
+- Trajectory: (Px(t),Py(t))  where Px(t)=t and Py(t)=((t-5)^4 + 2*(t-5)^3 - 15*(t-5)^2 - 12*(t-5) + 36)/20
 
 - Start and final time: t in [t0=0, tf=9]
 
