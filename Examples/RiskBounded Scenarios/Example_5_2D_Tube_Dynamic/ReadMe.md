@@ -20,5 +20,5 @@ where w1 is the uncertain radius with Uniform distribution on [0.3, 0.4], w2 has
 <p align = "center">
 <p align="center">
 Given Trajectory, Tube, and Risk Contour of the Probabilistic Moving Obstacle. 
-Probability of collision with the uncertain obstacle outside of the outer red curve is less or equal to ∆=0.01. Yellow ellipse shows that the tube at current time is safe.<p align = "center">
+Probability of collision with the uncertain obstacle outside of the red curve is less or equal to ∆=0.01. Yellow ellipse shows that the tube at current time is safe.<p align = "center">
 
