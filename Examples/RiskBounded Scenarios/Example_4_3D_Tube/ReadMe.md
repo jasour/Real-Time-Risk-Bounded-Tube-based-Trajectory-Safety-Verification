@@ -20,5 +20,5 @@ where w1 is the uncertain radius with Uniform distribution on [0.3, 0.4], w2 has
 <img src="https://github.com/jasour/Real-Time-Risk-Bounded-Tube-based-Trajectory-Safety-Verification/blob/main/Examples/RiskBounded%20Scenarios/Example_4_3D_Tube/plot.png" width="400" height="400" />
 <p align = "center">
 <p align="center">
-Given Trajectory, Tube, and Risk Contour of the Probabilistic Obstacle. Probability of collision with the uncertain obstacle outside of the outer red curve is less or equal to ∆=0.01.
+Given Trajectory, Tube, and Risk Contour of the Probabilistic Obstacle. Probability of collision with the uncertain obstacle outside of the red region is less or equal to ∆=0.01.
 <p align = "center">
