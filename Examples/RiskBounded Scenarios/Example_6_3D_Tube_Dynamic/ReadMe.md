@@ -1,4 +1,15 @@
 
+- Probabilistic Time-Varying Safety Constraint (safe region): Moving obstacle with uncertain size and location
+
+<p align="center">
+{(x1,x2,x3,t) : w1^2-((x1-2-0.1*w2)/1)^2-((x2-2-0.1*w3)/1)^2-((x3-5+t/1.5-0.1*w4)/2)^2 >= 0 }
+<p>
+where w1 is the uncertain radius with Uniform distribution on [0.3, 0.4], w2 has normal distribution N(0,0.1), w3 has Beta distribution Beta(3,3), and w4 has normal distribution N(0,0.1)
+
+
+- Acceptable Risk Level: ∆ = 0.01
+
+
 - Trajectory: (Px(t),Py(t),Pz(t))  where Px(t)=t, Py(t)=t, Pz(t)=((t-5)^4 + 2*(t-5)^3 - 15*(t-5)^2 - 12*(t-5) + 36)/20
 
 - Tube Size: 0.4
