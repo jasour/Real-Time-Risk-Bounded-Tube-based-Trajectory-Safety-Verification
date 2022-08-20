@@ -1,5 +1,4 @@
 # Real-Time Risk-Bounded Tube-based Trajectory Safety Verification
-CDC 2021: Real-Time Risk-Bounded Tube-based Trajectory Safety Verification
 
 **Risk:** Given the uncertain safety constraint X(t,w), e.g., randomly moving obstacle with uncertain size and location, and the planned state trajectory P(t), we define the risk at time t as the probability of violation of the uncertain safety constraints by the given trajectory
 P(t) at time t. 
