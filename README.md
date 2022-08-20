@@ -39,7 +39,7 @@ Tube-based Risk-Aware Safety Layer for Planning
 
 
 **Approach:**
-Provided method 1) uses [risk contours](https://github.com/jasour/Risk-Contours) to transform the probabilistic safety constraints into set of deterministic constraints and 2) Sum-of-Squares (SOS) based formulation to verify the safety of the trajectory and its neighborhood (tube) over the entire planning time horizon without time discretization.
+Provided method 1) uses [risk contours](https://github.com/jasour/Risk-Contours) to transform the probabilistic safety constraints into a set of deterministic constraints and 2) Sum-of-Squares (SOS) polynomial based formulation to verify the safety of the trajectory and its neighborhood (tube) over the entire planning time horizon without time discretization.
 * Provided method deals with i) nonlinear and nonconvex safety constraints, ii) arbitrary probability distributions, and iii) long planning horizons, in real-time, without the need for uncertainty samples and time discretization.
 * The complexity of the provided method is independent of the size of the planning time horizon [t0, tf ] and the length of the polynomial trajectory P(t). Hence, It can be easily used to verify the safety of trajectories in uncertain environments over the long planning time horizons.
 
