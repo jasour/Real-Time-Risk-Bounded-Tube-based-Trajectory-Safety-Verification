@@ -20,5 +20,5 @@ where w1 is the uncertain radius with Uniform distribution on [0.3, 0.4], w2 has
 <img src="https://github.com/jasour/Real-Time-Risk-Bounded-Tube-based-Trajectory-Safety-Verification/blob/main/Examples/RiskBounded%20Scenarios/Example_6_3D_Tube_Dynamic/plot.png" width="900" height="500" />
 <p align = "center">
 <p align="center">
-Given Trajectory, Tube, and Moving Obstacle. Yellow ellipse shows that the tube at current time is obstacle free.
+Given Trajectory, Tube, and Risk Contour of the Probabilistic Moving Obstacle. Probability of collision with the uncertain obstacle outside of the red region is less or equal to ∆=0.01. Yellow ellipse shows that the tube at current time is safe.
 <p align = "center">
