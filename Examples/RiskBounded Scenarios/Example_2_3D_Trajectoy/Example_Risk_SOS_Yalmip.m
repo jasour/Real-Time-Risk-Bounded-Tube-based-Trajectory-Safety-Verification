@@ -1,4 +1,4 @@
-%% SOS-based Continuous-Time Safety Verification in Spotless
+%% SOS-based Continuous-Time Safety Verification in Yalmip
 clc; clear;close all, warning off
 
 % time
